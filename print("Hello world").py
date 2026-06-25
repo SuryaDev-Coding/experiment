@@ -1,4 +1,4 @@
 print("Hello world")
 print("Hi mom")
-print("ppp")
 print("This better work")
+#This has to work
