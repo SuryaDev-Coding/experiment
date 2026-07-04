@@ -1,6 +1,5 @@
 #lang sicp
 
-(define (square x)
-    (* x x))
-
-(square 5)
+(+ 8 9)
+(+ 8 9 78 86 45 34)
+(+ (- 45 8) (- 34 5))
