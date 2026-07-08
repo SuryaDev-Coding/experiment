@@ -1,1 +1,2 @@
+print("Idol")
 print("Hello")
